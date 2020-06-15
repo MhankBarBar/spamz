@@ -1,0 +1,2 @@
+# spamz
+Ez em ez
