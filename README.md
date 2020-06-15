@@ -1,12 +1,12 @@
 # spamz
 
 # Install
-`$ pkg install git python3`
-`$ python3 -m pip install requests`
+`$ pkg install git python3`<br>
+`$ python3 -m pip install requests`<br>
 `$ git clone https://github.com/MhankBarBar/spamz`
 
 # Run
-`$ cd spamz`
+`$ cd spamz`<br>
 `$ python3 spamz.py`
 
 # Good Luck 
